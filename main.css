@@ -1,0 +1,41 @@
+body {
+    padding: 0;
+    margin: 0;
+
+
+
+}
+.front-page {
+  display: grid;
+  height: 100vh;
+
+
+}
+.front-header {
+background-color: yellow;
+
+
+
+
+}
+.front-menu {
+background-color: rgb(69, 122, 236);
+
+
+
+
+}
+.front-maincontent {
+background-color:  green;
+
+
+
+
+}
+.front-footer {
+background-color: sandybrown;
+
+
+
+
+}
